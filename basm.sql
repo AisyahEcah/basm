@@ -87,7 +87,7 @@ CREATE TABLE `clients` (
 INSERT INTO `clients` (`client_id`, `first_name`, `last_name`, `phone_number`, `client_email`) VALUES
 (1, 'Dennis', 'S Embry', '0117796791', 'dennis_embry@gmail.com'),
 (2, 'Bonnie', 'A Rivera', '0143275825', 'bonnie_rivera@yahoo.fr'),
-(13, 'Driss', 'Jabiri', '0789342481', 'driss.jabiri@gmail.com');
+(13, 'Driss', 'Jabiri', '0178934248', 'driss.jabiri@gmail.com');
 
 -- --------------------------------------------------------
 
