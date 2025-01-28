@@ -1,6 +1,6 @@
 <?php
 
-	$dsn = 'mysql:host=localhost;dbname=basm'; // Replace 'basm' with the actual database name
+	$dsn = 'mysql:host=localhost;dbname=dsn'; // Replace 'basm' with the actual database name
 	$user = 'root'; // Ensure this is the correct MySQL username
 	$pass = ''; // Ensure this is the correct password for the MySQL user
 	$option = array(
